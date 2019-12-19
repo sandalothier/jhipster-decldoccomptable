@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "decldoccomptable",
+    "packageName": "com.fisc.decldoccomptable",
+    "packageFolder": "com/fisc/decldoccomptable",
+    "serverPort": 8086,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "N2RiMWNiNmFhYzM0NTJlZmI2ZWE5NmUxMWRkZGJiNjc3YWIwZjNhZmI3YzAwZGM5NWM0NzVhMWVkZWIxODY0OTFhYmRkYTY1ODZjNzg4Yzc1ZDY2NjgzOTZiNGQxNmM0Y2M3ZGJhZGEyYjA5Njk4ZTM3NWVkYTYwNDJmZmIwYzg=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "sandalothier",
+  "repository-name": "jhipster-decldoccomptable"
+}
